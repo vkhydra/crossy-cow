@@ -6,3 +6,7 @@ A cada vez que atravessa a rua você ganha um ponto, e a cada vez que acerta um 
 ## Link do Jogo 🔗
 
 https://editor.p5js.org/vkhydra/present/6TG7h2qsK
+
+## Controles 🎮
+
+Use as setas CIMA/BAIXO para controlar a vaca.
